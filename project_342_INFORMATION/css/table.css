@@ -1,0 +1,15 @@
+/*table style */
+table{
+    padding:.5em;
+    margin: auto;
+    border-color: green;
+    border-style: solid;
+    border-collapse: collapse;
+}
+th{
+    color:red;
+    border-bottom: dotted red;
+}
+td{
+    color:blue;
+}
